@@ -41,7 +41,7 @@ $id_user =$_SESSION['username'];
                         <a class="bi bi-archive-fill mb-2" href="mainmenu_home_copy.php"> Pengambilan</a>
                     </li>
                     <li>
-                        <a class="bi bi-clock-history mb-2" href="mainmenu_history.php"> History</a>
+                        <a class="bi bi-clock-history mb-2" href="mainmenu_history.php"> Riwayat Pemesanan</a>
                     </li>
                     <li>
                         <a class="bi bi-person-lines-fill" href="mainmenu_contact.php"> Contact</a>
