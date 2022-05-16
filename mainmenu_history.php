@@ -31,7 +31,7 @@ $id_user =$_SESSION['username'];
                 <ul class="sidebar-nav">
                     <li class="sidebar-brand">
                         <a href="mainmenu_home.php">
-                            Sampahin
+                            Sampahini
                         </a>
                     </li>
                     <li>
